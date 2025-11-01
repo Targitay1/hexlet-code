@@ -3,8 +3,12 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Targitay1_hexlet-code&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Targitay1_hexlet-code)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Targitay1_hexlet-code&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Targitay1_hexlet-code)
 
-## Brain Even Game Demo
+## Brain Games Demos
 
+### Calculator Game
+[![asciicast](https://asciinema.org/a/fPAVo2qvRegtSkwRbrFLp7NZy.svg)](https://asciinema.org/a/fPAVo2qvRegtSkwRbrFLp7NZy)
+
+### Even Number Game  
 [![asciicast](https://asciinema.org/a/G01vLvnYOVz86xlBeuSXUswWl.svg)](https://asciinema.org/a/G01vLvnYOVz86xlBeuSXUswWl)
 
 # Hexlet Code

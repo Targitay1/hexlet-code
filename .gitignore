@@ -49,3 +49,24 @@ uv.lock
 .gitconfig
 .lesshst
 
+# Hexlet specific
+uv.lock
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter notebooks
+*.ipynb

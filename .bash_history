@@ -139,3 +139,4 @@ brain-games
 tree
 sudo apt install tree
 tree
+brain-calc

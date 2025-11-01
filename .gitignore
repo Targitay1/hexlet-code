@@ -41,3 +41,11 @@ Thumbs.db
 *.save
 uv.lock
 
+# System directories
+.local/
+.cache/
+.ssh/
+.git-credentials
+.gitconfig
+.lesshst
+

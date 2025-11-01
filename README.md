@@ -17,6 +17,9 @@
 ### Progression Game
 [![asciicast](https://asciinema.org/a/a9WdThAOhVZf42eRdtx96sbvV.svg)](https://asciinema.org/a/a9WdThAOhVZf42eRdtx96sbvV)
 
+### Prime Number Game
+[![asciicast](https://asciinema.org/a/54S4HQjVipoSVyFDL2ySgI33d.svg)](https://asciinema.org/a/54S4HQjVipoSVyFDL2ySgI33d)
+
 # Hexlet Code
 
 Brain Games - a collection of math games for training mental calculation.

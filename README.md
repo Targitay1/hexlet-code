@@ -14,6 +14,9 @@
 ### GCD Game
 [![asciicast](https://asciinema.org/a/hIZ9RDP0c0yitQUeFG6DeK1Pz.svg)](https://asciinema.org/a/hIZ9RDP0c0yitQUeFG6DeK1Pz)
 
+### Progression Game
+[![asciicast](https://asciinema.org/a/a9WdThAOhVZf42eRdtx96sbvV.svg)](https://asciinema.org/a/a9WdThAOhVZf42eRdtx96sbvV)
+
 # Hexlet Code
 
 Brain Games - a collection of math games for training mental calculation.

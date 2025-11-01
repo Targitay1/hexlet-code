@@ -11,6 +11,10 @@
 ### Even Number Game  
 [![asciicast](https://asciinema.org/a/G01vLvnYOVz86xlBeuSXUswWl.svg)](https://asciinema.org/a/G01vLvnYOVz86xlBeuSXUswWl)
 
+### GCD Game
+[![asciicast](https://asciinema.org/a/hIZ9RDP0c0yitQUeFG6DeK1Pz.svg)](https://asciinema.org/a/hIZ9RDP0c0yitQUeFG6DeK1Pz)
+
 # Hexlet Code
 
 Brain Games - a collection of math games for training mental calculation.
+
